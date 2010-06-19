@@ -42,6 +42,7 @@ class Mysql <Formula
       "--with-extra-charsets=complex",
       "--with-ssl",
       "--with-readline",
+      "--with-partition",
       "--enable-assembler",
       "--enable-thread-safe-client",
       "--enable-local-infile",
